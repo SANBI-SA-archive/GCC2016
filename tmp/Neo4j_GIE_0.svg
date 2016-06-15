@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Neo4j_GIE_0.svg">
+   sodipodi:docname="Neo4j_GIE_0.png">
   <defs
      id="defs4">
     <filter
@@ -50,6 +50,22 @@
          operator="over"
          result="composite2" />
     </filter>
+    <filter
+       id="filter4255"
+       inkscape:label="Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Glow of object's own color at the edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4257"
+         stdDeviation="5"
+         result="result91" />
+      <feComposite
+         id="feComposite4259"
+         in2="result91"
+         in="SourceGraphic"
+         operator="over" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -58,11 +74,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77349796"
-     inkscape:cx="678.21154"
-     inkscape:cy="947.47827"
+     inkscape:zoom="0.38674898"
+     inkscape:cx="744.09448"
+     inkscape:cy="1052.3622"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer6"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
@@ -85,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,12 +140,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Title">
+     inkscape:label="Title"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot2998"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;filter:url(#filter3201);font-family:Sans"
-       transform="matrix(1.2030221,0,0,1,206.01171,-2.6768512)"><flowRegion
+       transform="matrix(1.2030221,0,0,1,154.01172,-2.6768512)"><flowRegion
          id="flowRegion3000"><rect
            id="rect3002"
            width="963.51831"
@@ -138,9 +155,9 @@
            y="27.529095"
            style="fill:#e6e6e6" /></flowRegion><flowPara
          id="flowPara3004"
-         style="font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#e6e6e6">A Galaxy Interactive Environment for </flowPara><flowPara
+         style="font-weight:bold;fill:#e6e6e6;-inkscape-font-specification:Sans Bold">A Galaxy Interactive Environment for </flowPara><flowPara
          id="flowPara3010"
-         style="font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#e6e6e6">Exploring the Neo4j Graph Database</flowPara></flowRoot>    <text
+         style="font-weight:bold;fill:#e6e6e6;-inkscape-font-specification:Sans Bold">Exploring the Neo4j Graph Database</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="976.03149"
@@ -155,7 +172,7 @@
        xml:space="preserve"
        id="flowRoot49234"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.1100569,0,0,1.0006973,-178.41169,-10.106118)"><flowRegion
+       transform="matrix(1.1100569,0,0,1.0006973,-242.41169,-10.106118)"><flowRegion
          id="flowRegion49236"><rect
            id="rect49238"
            width="758.30139"
@@ -164,7 +181,7 @@
            y="145.15341"
            style="fill:#e6e6e6" /></flowRegion><flowPara
          id="flowPara49240"
-         style="font-size:29.64879227000000128px;fill:#e6e6e6">Thoba Lose, Peter van Heusden, Alan Christoffels</flowPara></flowRoot>    <flowRoot
+         style="font-size:29.64879227px;font-weight:normal;fill:#e6e6e6;-inkscape-font-specification:Sans">Thoba Lose, Peter van Heusden, Alan Christoffels</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot49250"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
@@ -189,7 +206,7 @@
        xml:space="preserve"
        id="flowRoot49266"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(215,168.17739)"><flowRegion
+       transform="translate(181,168.17739)"><flowRegion
          id="flowRegion49268"><rect
            id="rect49270"
            width="710"
@@ -222,17 +239,7 @@
        transform="matrix(1.5839505,0,0,1.6178405,-1170.319,-72.83655)" />
     <path
        sodipodi:type="arc"
-       style="fill:#ffffff"
-       id="path3015"
-       sodipodi:cx="1220"
-       sodipodi:cy="604.72437"
-       sodipodi:rx="140"
-       sodipodi:ry="140"
-       d="m 1360,604.72437 a 140,140 0 1 1 -280,0 140,140 0 1 1 280,0 z"
-       transform="matrix(2.0010581,0,0,1.7865455,-2130.2335,-684.47308)" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#ffffff"
+       style="fill:#2c5aa0"
        id="path3017"
        sodipodi:cx="400"
        sodipodi:cy="1084.7244"
@@ -242,7 +249,7 @@
        transform="matrix(1.5130422,0,0,1.5561433,-161.25848,13.560427)" />
     <path
        sodipodi:type="arc"
-       style="fill:#ffffff"
+       style="fill:#2c5aa0"
        id="path3019"
        sodipodi:cx="1160"
        sodipodi:cy="1284.7244"
@@ -252,7 +259,7 @@
        transform="matrix(1.8133596,0,0,1.5144325,-1038.589,-264.19409)" />
     <path
        sodipodi:type="arc"
-       style="fill:#ffffff"
+       style="fill:#e6e6e6"
        id="path3021"
        sodipodi:cx="800"
        sodipodi:cy="824.72437"
@@ -262,7 +269,17 @@
        transform="matrix(3.4810803,0,0,3.4193296,-1620.3164,-1963.707)" />
     <path
        sodipodi:type="arc"
-       style="fill:#ffffff"
+       style="fill:#2c5aa0;filter:url(#filter4255)"
+       id="path3015"
+       sodipodi:cx="1220"
+       sodipodi:cy="604.72437"
+       sodipodi:rx="140"
+       sodipodi:ry="140"
+       d="m 1360,604.72437 a 140,140 0 1 1 -280,0 140,140 0 1 1 280,0 z"
+       transform="matrix(2.0010581,0,0,1.7865455,-2130.2335,-684.47308)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#2c5aa0"
        id="path3017-2"
        sodipodi:cx="400"
        sodipodi:cy="1084.7244"
@@ -519,8 +536,7 @@ I+swXH8WZJMAAAAASUVORK5CYII=
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Text"
-     sodipodi:insensitive="true">
+     inkscape:label="Text">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3024"
@@ -533,7 +549,7 @@ I+swXH8WZJMAAAAASUVORK5CYII=
            y="222.7354" /></flowRegion><flowPara
          id="flowPara3030" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
        x="200"
        y="209.72437"
        id="text49304"
@@ -542,7 +558,7 @@ I+swXH8WZJMAAAAASUVORK5CYII=
          id="tspan49306"
          x="200"
          y="209.72437"
-         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Sans Bold">Introduction</tspan></text>
+         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#e6e6e6">Introduction</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot49308"
@@ -556,7 +572,7 @@ I+swXH8WZJMAAAAASUVORK5CYII=
          id="flowPara49314" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot49326"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
        transform="translate(-5,-1.9358697)"><flowRegion
          id="flowRegion49328"><rect
            id="rect49330"
@@ -564,29 +580,30 @@ I+swXH8WZJMAAAAASUVORK5CYII=
            height="370"
            x="90"
            y="234.72437"
-           ry="0" /></flowRegion><flowPara
+           ry="0"
+           style="fill:#e6e6e6" /></flowRegion><flowPara
          id="flowPara49332"
-         style="font-size:18px;text-align:center;text-anchor:middle">Storing biological data involves modeling and storing thousands of entities that are interrelated in complex ways.</flowPara><flowPara
-         style="font-size:18px;text-align:center;text-anchor:middle"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#e6e6e6">Storing biological data involves modeling and storing thousands of entities that are interrelated in complex ways.</flowPara><flowPara
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#e6e6e6"
          id="flowPara49350" /><flowPara
-         style="font-size:18px;text-align:center;text-anchor:middle"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#e6e6e6"
          id="flowPara49336">Relational databases meet very specific needs and are not designed to fit all scenarios.</flowPara><flowPara
-         style="font-size:18px;text-align:center;text-anchor:middle"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#e6e6e6"
          id="flowPara49352" /><flowPara
-         style="font-size:18px;text-align:center;text-anchor:middle"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#e6e6e6"
          id="flowPara49340">Graph databases, which focus on connections between entities, are seen as a natural fit to these complex relationships.</flowPara><flowPara
-         style="font-size:18px;text-align:center;text-anchor:middle"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#e6e6e6"
          id="flowPara49354" /><flowPara
-         style="font-size:18px;text-align:center;text-anchor:middle"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#e6e6e6"
          id="flowPara49344">Neo4j is a highly scalable graph database with a declarative query language called Cypher.</flowPara><flowPara
-         style="font-size:18px;text-align:center;text-anchor:middle"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#e6e6e6"
          id="flowPara49356" /><flowPara
-         style="font-size:18px;text-align:center;text-anchor:middle"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#e6e6e6"
          id="flowPara49348">We implemented a GIE to explore the Neo4j database.</flowPara><flowPara
-         style="font-size:18px;text-align:center;text-anchor:middle"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#e6e6e6"
          id="flowPara49338" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:80.7975769px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:80.79757689999999570px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3771c8;fill-opacity:1;stroke:none;font-family:Sans"
        x="1257.1835"
        y="354.86896"
        id="text49304-4"
@@ -596,10 +613,10 @@ I+swXH8WZJMAAAAASUVORK5CYII=
          id="tspan49306-0"
          x="1257.1835"
          y="354.86896"
-         style="font-size:64.63806152px;font-weight:bold;-inkscape-font-specification:Sans Bold">Implemenation</tspan></text>
+         style="font-size:64.63806151999999372px;font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#3771c8">Implemenation</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
        x="960"
        y="1464.7244"
        id="text49304-6"
@@ -608,10 +625,10 @@ I+swXH8WZJMAAAAASUVORK5CYII=
          id="tspan49306-1"
          x="960"
          y="1464.7244"
-         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Sans Bold">References</tspan></text>
+         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#e6e6e6">References</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
        x="340"
        y="1484.7244"
        id="text49304-8"
@@ -620,10 +637,10 @@ I+swXH8WZJMAAAAASUVORK5CYII=
          id="tspan49306-08"
          x="340"
          y="1484.7244"
-         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Sans Bold">Conclusion</tspan></text>
+         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#e6e6e6">Conclusion</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
        x="240"
        y="904.72437"
        id="text49304-1"
@@ -632,23 +649,24 @@ I+swXH8WZJMAAAAASUVORK5CYII=
          id="tspan49306-9"
          x="240"
          y="904.72437"
-         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Sans Bold">Results</tspan></text>
+         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#e6e6e6">Results</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot49498"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        transform="translate(-150,-69.929368)"><flowRegion
          id="flowRegion49500"><rect
            id="rect49502"
            width="550"
            height="340"
            x="320"
-           y="1624.7244" /></flowRegion><flowPara
+           y="1624.7244"
+           style="fill:#e6e6e6" /></flowRegion><flowPara
          id="flowPara49504"
-         style="font-size:20px;text-align:center;text-anchor:middle">The development of the Neo4J GIE bridges the gap between Galaxy and graph databases by allowing users to interrogate, using the Cypher declarative language, data without leaving Galaxy.</flowPara></flowRoot>    <flowRoot
+         style="font-size:20px;text-align:center;text-anchor:middle;fill:#e6e6e6">The development of the Neo4J GIE bridges the gap between Galaxy and graph databases by allowing users to interrogate, using the Cypher declarative language, data without leaving Galaxy.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot49326-6"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
        transform="translate(15,702.06413)"><flowRegion
          id="flowRegion49328-2"><rect
            id="rect49330-5"
@@ -656,11 +674,12 @@ I+swXH8WZJMAAAAASUVORK5CYII=
            height="370"
            x="90"
            y="234.72437"
-           ry="0" /></flowRegion><flowPara
-         style="font-size:20px;text-align:center;text-anchor:middle"
+           ry="0"
+           style="fill:#e6e6e6" /></flowRegion><flowPara
+         style="font-size:20px;text-align:center;text-anchor:middle;fill:#e6e6e6"
          id="flowPara49348-0">A Neo4j GIE to explore the graph database using Cypher, a declarative query language desgined for expressing graph queries.</flowPara><flowPara
-         style="font-size:20px;text-align:center;text-anchor:middle"
+         style="font-size:20px;text-align:center;text-anchor:middle;fill:#e6e6e6"
          id="flowPara3415" /><flowPara
-         style="font-size:20px;text-align:center;text-anchor:middle"
+         style="font-size:20px;text-align:center;text-anchor:middle;fill:#e6e6e6"
          id="flowPara49338-9" /></flowRoot>  </g>
 </svg>
