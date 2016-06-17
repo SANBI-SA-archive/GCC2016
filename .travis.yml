@@ -12,5 +12,6 @@ deploy:
     - posters/COMBAT_TB_EXPLORER.jpg
     - posters/Neo4j_GIE_0.pdf
     - posters/Neo4j_GIE_0.jpg
+  overwrite: true
   on:
     repo: SANBI-SA/GCC2016
