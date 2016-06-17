@@ -15,7 +15,7 @@
    viewBox="0 0 2979.9212 4212.9923"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="COMBAT_TB_EXPLORER.svg">
   <defs
      id="defs4">
@@ -1829,13 +1829,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25428995"
-     inkscape:cx="1373.1366"
-     inkscape:cy="2027.8813"
+     inkscape:cx="1081.8829"
+     inkscape:cy="3602.0615"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -3789,7 +3789,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4642"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
        transform="translate(0,-616.53543)"><flowRegion
          id="flowRegion4644"><rect
            id="rect4646"
@@ -3799,7 +3799,7 @@
            y="1684.7244" /></flowRegion><flowPara
          id="flowPara4648" /></flowRoot>    <flowRoot
        transform="matrix(1.0376265,0,0,0.97112433,83.917021,714.17505)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000bcd;fill-opacity:1;stroke:none"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000bcd;fill-opacity:1;stroke:none;display:inline;font-family:sans-serif"
        id="flowRoot4350-8-4"
        xml:space="preserve"><flowRegion
          id="flowRegion4352-0-6"><rect
@@ -3809,33 +3809,41 @@
            width="1573.5587"
            id="rect4354-7-3"
            style="fill:#000bcd;fill-opacity:1;stroke:none" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:99.61897278px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#0036d9;fill-opacity:1;stroke:none"
+         style="font-size:99.61897278px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#0036d9;fill-opacity:1;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
          id="flowPara4356-3-4">Conclusions and acknowledgements</flowPara></flowRoot>    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.85;fill:none;stroke:#000bcd;stroke-width:7.10084581;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="opacity:0.85;color:#000000;fill:none;stroke:#000bcd;stroke-width:7.27163982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect21810-79"
-       width="2830.543"
-       height="480.52774"
-       x="74.633759"
-       y="897.01672" />
+       width="2830.3721"
+       height="503.95206"
+       x="74.719154"
+       y="897.10211" />
     <flowRoot
-       transform="matrix(1.0770165,0,0,1.080924,60.155776,809.34904)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.0770165,0,0,1.080924,60.155776,628.45317)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:sans-serif"
        id="flowRoot4368-8"
        xml:space="preserve"><flowRegion
          id="flowRegion4370-2"><rect
            y="228.18896"
            x="42.857143"
-           height="355.26001"
-           width="2554.6519"
+           height="472.51666"
+           width="2602.3201"
            id="rect4372-4" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.07244492px;font-family:Garuda;-inkscape-font-specification:'Garuda Bold';fill:#055251;fill-opacity:0.99434868"
+         style="font-size:37.07244492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#055251;fill-opacity:0.99434868;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
          id="flowPara7003-7" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.07244492px;font-family:Garuda;-inkscape-font-specification:'Garuda Bold';fill:#055251;fill-opacity:0.99434868"
+         style="font-size:37.07244492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#055251;fill-opacity:0.99434868;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
          id="flowPara13109" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.07244492px;font-family:Garuda;-inkscape-font-specification:'Garuda Bold';fill:#055251;fill-opacity:0.99434868"
+         style="font-size:37.07244492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#055251;fill-opacity:0.99434868;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
          id="flowPara13111" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.07244492px;font-family:Garuda;-inkscape-font-specification:'Garuda Bold';fill:#055251;fill-opacity:0.99434868"
-         id="flowPara13115">The COMBAT TB project is funded by the South African Medical Research Council (MRC). We would like to acknowledge the support of the Galaxy Team and community and the scientific expertise of our colleague Zahra Jalali.</flowPara></flowRoot>  </g>
+         style="font-size:37.07244492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#055251;fill-opacity:0.99434868;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
+         id="flowPara13115">• Integrating novel sequencing results with existing annotation will be key to researching M. tuberculosis and ultimately fighting tuberculosis.</flowPara><flowPara
+         style="font-size:37.07244492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#055251;fill-opacity:0.99434868;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
+         id="flowPara4912">• Our data exploration environment allows biomedical researchers to analyse, visualise and explore their own data in the context of existing annotation.</flowPara><flowPara
+         style="font-size:37.07244492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#055251;fill-opacity:0.99434868;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
+         id="flowPara4914">• We intend to build on the foundation we have created by extending the COMBAT TB Explorer with additional analysis modules for interrogation molecular pathway relationships, human - pathogen and drug interaction data.</flowPara><flowPara
+         style="font-size:37.07244492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#055251;fill-opacity:0.99434868;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
+         id="flowPara4908"></flowPara><flowPara
+         style="font-size:37.07244492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#055251;fill-opacity:0.99434868;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
+         id="flowPara4910">The COMBAT TB project is funded by the South African Medical Research Council (MRC). We would like to acknowledge the support of Zahra Jalali (SANBI) the Galaxy Team and community.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
@@ -4096,7 +4104,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot4350-8"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000bcd;fill-opacity:1;stroke:none"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000bcd;fill-opacity:1;stroke:none;display:inline;font-family:sans-serif"
          transform="matrix(1.0376265,0,0,0.97112433,83.917021,-963.82327)"><flowRegion
            id="flowRegion4352-0"><rect
              style="fill:#000bcd;fill-opacity:1;stroke:none"
@@ -4106,10 +4114,10 @@
              x="55.714287"
              y="188.18896" /></flowRegion><flowPara
            id="flowPara4356-3"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:99.61897278px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#0036d9;fill-opacity:1;stroke:none">Methods &amp; Results</flowPara></flowRoot>      <flowRoot
+           style="font-size:99.61897278px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#0036d9;fill-opacity:1;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin Bold">Methods and Results</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot4368-3"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#045b5a;fill-opacity:0.99607843;stroke:none"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#045b5a;fill-opacity:0.99607843;stroke:none;display:inline;font-family:sans-serif"
          transform="matrix(1.0769494,0,0,1.1247971,60.158651,-920.99903)"><flowRegion
            id="flowRegion4370-0"><rect
              style="fill:#045b5a;fill-opacity:0.99607843"
@@ -4119,32 +4127,26 @@
              x="42.857143"
              y="228.18896" /></flowRegion><flowPara
            id="flowPara4374-3"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.67080116px;font-family:Garuda;-inkscape-font-specification:'Garuda Bold';fill:#045b5a;fill-opacity:0.99607843" /><flowPara
-           id="flowPara12103"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.34337616px;font-family:Garuda;-inkscape-font-specification:'Garuda Bold';fill:#045b5a;fill-opacity:0.99607843">• We implemented a bacterial genomic variant calling workflow in Galaxy based on previous SANBI work on analysing mutations in drug resistance strains of <flowSpan
-   id="flowSpan12107"
-   style="font-style:italic">M. tuberculosis</flowSpan>. </flowPara><flowPara
-           id="flowPara5988"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.34337616px;font-family:Garuda;-inkscape-font-specification:'Garuda Bold';fill:#045b5a;fill-opacity:0.99607843">• Combined variant calls with a reference database of <flowSpan
-   id="flowSpan12164"
-   style="font-style:italic">M. tuberculosis</flowSpan> genome annotation to produce a new Galaxy datatype (ctb_report).</flowPara><flowPara
+           style="font-size:20.67080116px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#045b5a;fill-opacity:0.99607843;font-family:Garuda;-inkscape-font-specification:Garuda Bold" /><flowPara
            id="flowPara5991"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.34337616px;font-family:Garuda;-inkscape-font-specification:'Garuda Bold';fill:#045b5a;fill-opacity:0.99607843">• Implemented COMBAT TB Explorer, a Galaxy Interactive Environment that allows novel data to be explored in the context of the <flowSpan
-   id="flowSpan12109"
-   style="font-style:italic">M. tuberculosis</flowSpan> genome (visualised in the JBrowse genome browser) and with reference to known annotation.</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.34337616px;font-family:Garuda;-inkscape-font-specification:'Garuda Bold';fill:#045b5a;fill-opacity:0.99607843"
+           style="font-size:36.34337616px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#045b5a;fill-opacity:0.99607843;font-family:Garuda;-inkscape-font-specification:Garuda Bold">We implemented a bacterial genomic variant calling workflow in Galaxy based on previous SANBI work on analysing mutations in drug resistance strains of <flowSpan
+   id="flowSpan12107"
+   style="font-style:italic">M. tuberculosis</flowSpan> and a downstream tool that combines variant calls with a reference database of <flowSpan
+   id="flowSpan12164"
+   style="font-style:italic">M. tuberculosis</flowSpan> genome annotation and a JBrowse based genome browser to produce a new Galaxy datatype (ctb_report). To visualise the resulting datasets we implemented COMBAT TB Explorer, a Galaxy Interactive Environment. The result is that variants gleaned from novel sequence data can be explored in the context of known annotation, both from genome-centric and annotation-centric perspectives. The COMBAT TB Explorer also contains a module for geneset enrichment analysis (GSEA).</flowPara><flowPara
+           style="font-size:36.34337616px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#045b5a;fill-opacity:0.99607843;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
            id="flowPara7088" /></flowRoot>      <rect
          y="-796.23712"
          x="74.416565"
          height="480.52774"
          width="2830.543"
          id="rect21810-7"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.85;fill:none;stroke:#000bcd;stroke-width:7.10084581;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+         style="opacity:0.85;color:#000000;fill:none;stroke:#000bcd;stroke-width:7.10084581;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5975"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
        transform="translate(0,-2108.2678)"><flowRegion
          id="flowRegion5977"><rect
            id="rect5979"
@@ -4155,7 +4157,7 @@
          id="flowPara5981" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5983"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
        transform="translate(0,-2108.2678)"><flowRegion
          id="flowRegion5985"><rect
            id="rect5987"
@@ -4165,7 +4167,7 @@
            y="1777.0641" /></flowRegion><flowPara
          id="flowPara5989" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;line-height:125%;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Garuda;-inkscape-font-specification:Garuda"
        x="1437.3356"
        y="626.53503"
        id="text5993"
@@ -4283,7 +4285,13 @@
              x="42.857143"
              y="228.18896" /></flowRegion><flowPara
            id="flowPara7003"
-           style="font-size:37.07244492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#055251;fill-opacity:0.99434868;font-family:Garuda;-inkscape-font-specification:Garuda Bold">Tuberculosis (TB), an infectious disease caused by the Mycobacterium tuberculosis, ranks as one of the leading causes of death worldwide, with WHO recording 9.6 people falling ill with 1.5 million deaths in 2014. This disease burden has arguably been matched with continued increase in genomic, transcriptomic and proteomic data for Mycobacterium tuberculosis as a result of NGS technologies. This continued expansion of data is exemplified by the growth of data repositories such as the tuberculosis database (TBDB) and the pathosystems resource integrated center (PATRICBRC). Unfortunately, these resources only present pre-computed data and do not provide the computational toolkit for biomedical researchers to analyze their own data. We have created the COMBAT TB Explorer, a Galaxy-based environment for annotating and exploring M. tuberculosis sequence data.</flowPara></flowRoot>      <rect
+           style="font-size:37.07244492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#055251;fill-opacity:0.99434868;font-family:Garuda;-inkscape-font-specification:Garuda Bold">Tuberculosis (TB), an infectious disease caused by the <flowSpan
+   style="font-style:italic"
+   id="flowSpan4890">Mycobacterium tuberculosis</flowSpan>, ranks as one of the leading causes of death worldwide, with WHO recording 9.6 million people falling ill with 1.5 million deaths in 2014. This disease burden has arguably been matched with continued increase in genomic, transcriptomic and proteomic data for <flowSpan
+   style="font-style:italic"
+   id="flowSpan4916">M. tuberculosis</flowSpan> as a result of NGS technologies. This continued expansion of data is exemplified by the growth of data repositories such as the tuberculosis database (TBDB) and the pathosystems resource integrated center (PATRICBRC). Unfortunately, these resources only present pre-computed data and do not provide the computational toolkit for biomedical researchers to analyze their own data. We have created the COMBAT TB Explorer, a Galaxy-based environment for annotating and exploring <flowSpan
+   style="font-style:italic"
+   id="flowSpan4892">M. tuberculosis</flowSpan> sequence data.</flowPara></flowRoot>      <rect
          y="-2014.1572"
          x="74.633759"
          height="480.52774"
@@ -4297,10 +4305,21 @@
      id="layer2"
      inkscape:label="Header &amp; Footer"
      transform="translate(0,2108.2678)">
+    <circle
+       style="opacity:0.84999999999999998;color:#000000;fill:none;stroke:#000bcd;stroke-width:10.62992154;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1"
+       id="path7532-3"
+       cx="2588.3599"
+       cy="-1782.5321"
+       r="313.97345"
+       d="m 2902.3333,-1782.5321 c 0,173.4027 -140.5707,313.9734 -313.9734,313.9734 -173.4028,0 -313.9735,-140.5707 -313.9735,-313.9734 0,-173.4028 140.5707,-313.9735 313.9735,-313.9735 173.4027,0 313.9734,140.5707 313.9734,313.9735 z"
+       sodipodi:cx="2588.3599"
+       sodipodi:cy="-1782.5321"
+       sodipodi:rx="313.97345"
+       sodipodi:ry="313.97345" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3360"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"><flowRegion
          id="flowRegion3362"><rect
            id="rect3364"
            width="1280"
@@ -4310,7 +4329,7 @@
          id="flowPara3366" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4170"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"><flowRegion
          id="flowRegion4172"><rect
            id="rect4174"
            width="1334.2858"
@@ -4320,17 +4339,17 @@
          id="flowPara4176" /></flowRoot>    <g
        id="g4335"
        transform="matrix(1.3459306,0,0,4.5015116,75.052834,-7458.0194)"
-       style="fill:#000bcd;fill-opacity:1;stroke:#000bcd;stroke-width:3.73830318;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="fill:#000bcd;fill-opacity:1;stroke:#000bcd;stroke-width:3.73830318;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
       <g
          id="g4332"
          transform="matrix(1,0,0,0.47792711,0,1099.5328)"
-         style="fill:#000bcd;fill-opacity:1;stroke:#000bcd;stroke-width:5.4074645;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#000bcd;fill-opacity:1;stroke:#000bcd;stroke-width:5.4074645;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <g
        id="g4241"
        transform="matrix(0.71520475,0,0,1,70.038513,-164.87789)">
       <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
          id="flowRoot4193-0"
          xml:space="preserve"
          transform="matrix(1,0,0,0.79042478,-271.54046,1863.2647)"><flowRegion
@@ -4340,10 +4359,10 @@
              height="54.513397"
              width="652.45477"
              id="rect4197-7" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Pothana2000;-inkscape-font-specification:Pothana2000;text-align:start;text-anchor:start;fill:#ffffff"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Pothana2000;-inkscape-font-specification:Pothana2000"
            id="flowPara4199-8">References &amp; Acknowledgements</flowPara></flowRoot>      <flowRoot
          transform="matrix(1,0,0,1.0233038,0,574.77974)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
          id="flowRoot4225"
          xml:space="preserve"><flowRegion
            id="flowRegion4227"><rect
@@ -4357,7 +4376,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4193"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000bcd;fill-opacity:1;stroke:none"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000bcd;fill-opacity:1;stroke:none;font-family:sans-serif"
        transform="matrix(1.8929264,0,0,1.8245992,-485.65452,-2089.5147)"><flowRegion
          id="flowRegion4195"><rect
            style="fill:#000bcd;fill-opacity:1"
@@ -4367,12 +4386,12 @@
            x="331.42856"
            y="51.046108" /></flowRegion><flowPara
          id="flowPara4199"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.9921608px;line-height:100%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:start;text-anchor:start;fill:#000bcd;fill-opacity:1">COMBAT TB Explorer,</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.04665375px;line-height:100%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:start;text-anchor:start;fill:#000bcd;fill-opacity:1"
+         style="font-size:53.9921608px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;fill:#000bcd;fill-opacity:1;font-family:Cabin;-inkscape-font-specification:Cabin Bold">COMBAT TB Explorer,</flowPara><flowPara
+         style="font-size:43.04665375px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;fill:#000bcd;fill-opacity:1;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
          id="flowPara12184">a TB data exploration workbench.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4233"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;font-family:sans-serif"
        transform="matrix(1.8929264,0,0,1.8245992,-537.29577,-1988.6318)"><flowRegion
          id="flowRegion4235"><rect
            style="fill:#008080"
@@ -4382,10 +4401,10 @@
            x="340"
            y="105.33183" /></flowRegion><flowPara
          id="flowPara4239"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.5968647px;font-family:Garuda;-inkscape-font-specification:'Garuda Bold';fill:#045b5a;fill-opacity:0.99607843">Peter van Heusden (pvh@sanbi.ac.za), Ziphozake Mashologu, Alan Christoffels (alan@sanbi.ac.za) </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.5968647px;font-family:Garuda;-inkscape-font-specification:'Garuda Bold';fill:#045b5a;fill-opacity:0.99607843"
+         style="font-size:21.5968647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#045b5a;fill-opacity:0.99607843;font-family:Garuda;-inkscape-font-specification:Garuda Bold">Peter van Heusden (pvh@sanbi.ac.za), Ziphozake Mashologu, Alan Christoffels (alan@sanbi.ac.za) </flowPara><flowPara
+         style="font-size:21.5968647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#045b5a;fill-opacity:0.99607843;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
          id="flowPara12186">South African National Bioinformatics Institute, University of the Western Cape</flowPara></flowRoot>    <g
-       style="display:inline;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+       style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
        transform="matrix(1.1779674,0,0,-1.0898118,2356.2252,-1771.44)"
        id="g23633-1">
       <path
@@ -4409,12 +4428,6 @@
          id="path22927-8"
          inkscape:connector-curvature="0" />
     </g>
-    <circle
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.85;fill:none;stroke:#000bcd;stroke-width:7.08661461;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="path7532-3"
-       cx="2588.3599"
-       cy="-1782.5321"
-       r="313.97345" />
     <g
        transform="matrix(0.5800241,0,0,0.5800241,1620.6791,-1512.5194)"
        id="layer1-7"
@@ -4429,7 +4442,7 @@
            inkscape:connector-curvature="0" />
         <path
            d="m 606.9928,752.00024 0,-137.27067 -50.14411,0 0,137.27067 50.14411,0 z"
-           style="fill:#bba762;fill-opacity:1;fill-rule:nonzero;stroke:#bba762;stroke-width:1.87796474;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#bba762;fill-opacity:1;fill-rule:nonzero;stroke:#bba762;stroke-width:1.87796474;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-opacity:1;stroke-dasharray:none"
            id="path11491"
            inkscape:connector-curvature="0" />
         <path
@@ -4480,15 +4493,15 @@
       </g>
     </g>
     <image
-       sodipodi:absref="/home/zipho/workspace/sanbi/dev/GCC2016/tmp/../images/SAMRCnewLogo.png"
+       sodipodi:absref="/home/pvh/Documents/SANBI/GCC2016/posters/../images/SAMRCnewLogo.png"
        xlink:href="../images/SAMRCnewLogo.png"
-       y="-1684.2389"
-       x="2450.7144"
-       id="image7720"
+       width="250"
        height="135"
-       width="250" />
+       id="image7720"
+       x="2450.7144"
+       y="-1684.2389" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.85;fill:none;stroke:#000bcd;stroke-width:7.07177258;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="opacity:0.85;color:#000000;fill:none;stroke:#000bcd;stroke-width:7.07177258;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 74.966744,-2021.1851 0,480.5615 2313.021956,0 a 312.64638,313.98686 0 0 1 -112.7421,-241.2996 312.64638,313.98686 0 0 1 110.7155,-239.2619 l -2310.995356,0 z"
        id="rect21810-1-8"
        inkscape:connector-curvature="0" />
