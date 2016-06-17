@@ -73,11 +73,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45919492"
-     inkscape:cx="1184.0509"
-     inkscape:cy="4147.0798"
+     inkscape:zoom="0.37561432"
+     inkscape:cx="1566.302"
+     inkscape:cy="4366.291"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1301"
      inkscape:window-height="744"
@@ -100,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -140,7 +140,6 @@
      id="layer4"
      inkscape:label="Title"
      transform="translate(0,2108.2679)"
-     sodipodi:insensitive="true"
      style="display:inline">
     <text
        xml:space="preserve"
@@ -153,47 +152,44 @@
          id="tspan3008"
          x="976.03149"
          y="80.084641" /></text>
-    <g
-       id="g7435">
-      <rect
-         ry="128.0275"
-         y="-2075.7424"
-         x="638.43085"
-         height="355.56598"
-         width="1770.3824"
-         id="rect6919"
-         style="opacity:0.85;color:#000000;fill:#000bcd;fill-opacity:1;stroke:#000bcd;stroke-width:11.90103912;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <flowRoot
-         transform="matrix(1.2030221,0,0,1,1799.4145,-2048.0009)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;filter:url(#filter3201);font-family:Sans"
-         id="flowRoot2998"
-         xml:space="preserve"><flowRegion
-           id="flowRegion3000"><rect
-             ry="0"
-             style="fill:#e6e6e6"
-             y="-12.598812"
-             x="-969.23547"
-             height="240"
-             width="1421.0851"
-             id="rect3002" /></flowRegion><flowPara
-           style="font-size:91.17236328px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;font-family:Cabin;-inkscape-font-specification:Cabin Bold Italic"
-           id="flowPara3010">A Galaxy Interactive Environment for exploring the Neo4j Graph Database</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.1100569,0,0,1.0006973,21.108012,-1963.568)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot49234"
-         xml:space="preserve"><flowRegion
-           id="flowRegion49236"><rect
-             style="fill:#e6e6e6"
-             y="145.15341"
-             x="683.22205"
-             height="96.198929"
-             width="1340.6388"
-             id="rect49238" /></flowRegion><flowPara
-           id="flowPara7429"
-           style="font-size:29.64879227px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;font-family:Garuda;-inkscape-font-specification:Garuda">Thoba Lose (thoba@sanbi.ac.za), Peter van Heusden, Alan Christoffels (alan@sanbi.ac.za)</flowPara><flowPara
-           id="flowPara7433"
-           style="font-size:29.64879227px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;font-family:Garuda;-inkscape-font-specification:Garuda">South African National Bioinformatics Institute, University of the Western Cape</flowPara></flowRoot>    </g>
+    <rect
+       style="opacity:0.85;color:#000000;fill:#000bcd;fill-opacity:1;stroke:#000bcd;stroke-width:12.04053688;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6919"
+       width="1812.8398"
+       height="355.42645"
+       x="617.20215"
+       y="-2075.6729"
+       ry="127.97726" />
     <flowRoot
+       xml:space="preserve"
+       id="flowRoot2998"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;filter:url(#filter3201);font-family:Sans"
+       transform="matrix(1.2030221,0,0,1,1799.4145,-2048.0009)"><flowRegion
+         id="flowRegion3000"><rect
+           id="rect3002"
+           width="1476.3203"
+           height="232.25313"
+           x="-969.23547"
+           y="-12.598812"
+           style="fill:#e6e6e6"
+           ry="0" /></flowRegion><flowPara
+         id="flowPara3010"
+         style="font-size:91.17236328px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;font-family:Cabin;-inkscape-font-specification:Cabin Bold Italic">A Galaxy Interactive Environment for exploring the Neo4j Graph Database</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot49234"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.1100569,0,0,1.0006973,21.108012,-1963.568)"><flowRegion
+         id="flowRegion49236"><rect
+           id="rect49238"
+           width="1340.6388"
+           height="96.198929"
+           x="683.22205"
+           y="145.15341"
+           style="fill:#e6e6e6" /></flowRegion><flowPara
+         style="font-size:29.64879227px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;font-family:Garuda;-inkscape-font-specification:Garuda"
+         id="flowPara7429">Thoba Lose (thoba@sanbi.ac.za), Peter van Heusden, Alan Christoffels (alan@sanbi.ac.za)</flowPara><flowPara
+         style="font-size:29.64879227px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;font-family:Garuda;-inkscape-font-specification:Garuda"
+         id="flowPara7433">South African National Bioinformatics Institute, University of the Western Cape</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot49250"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
@@ -512,7 +508,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Conclusion"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        sodipodi:type="arc"
        style="fill:#e6e6e6;display:inline"
