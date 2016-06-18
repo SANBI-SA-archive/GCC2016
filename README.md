@@ -1,6 +1,6 @@
 ### SANBI repository for Galaxy Community Conference 2016
 
-This repository contains posters and other content for the Galaxy Community Conference 2016 (GCC2016).
+This repository contains posters and other content for the Galaxy Community Conference 2016 (GCC2016). Rendered versions of the posters are available on the [releases page](https://github.com/SANBI-SA/GCC2016/releases).
 
 ### Copyright
 
