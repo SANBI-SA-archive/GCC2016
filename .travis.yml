@@ -18,4 +18,4 @@ deploy:
   on:
     repo: SANBI-SA/GCC2016
     tags: true
-    all_branches: true
+    # all_branches: true
