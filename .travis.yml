@@ -4,7 +4,7 @@ before_install:
 - sudo apt-get install -y inkscape imagemagick fonts-tlwg-garuda
 - sudo sh -c 'mkdir /usr/share/fonts/truetype/cabin && cd /usr/share/fonts/truetype/cabin && wget -O cabin.zip https://www.fontsquirrel.com/fonts/download/cabin && unzip cabin.zip && fc-cache'
 language: python
-script: make all
+script: bash render_posters.sh
 deploy:
   provider: releases
   api_key:
