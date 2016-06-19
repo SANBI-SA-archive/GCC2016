@@ -1830,7 +1830,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.28014995"
      inkscape:cx="1692.5921"
-     inkscape:cy="1476.3259"
+     inkscape:cy="334.08047"
      inkscape:document-units="mm"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -4189,30 +4189,34 @@
        preserveAspectRatio="none"
        height="704.30499"
        width="1122.7676" />
-    <g
-       id="g13827"
-       style="opacity:0.84999999999999998;color:#000000;fill:none;stroke:#0ee000;stroke-width:2.0735603;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
-      <g
-         transform="translate(-2619.3147,676.53547)"
-         id="g13790"
-         style="color:#000000;fill:none;stroke:#0ee000;stroke-width:2.0735603;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
-        <image
-           y="570.40338"
-           x="2709.0552"
-           id="image13767"
-           xlink:href="../images/gh-pages-qr-code.png"
-           height="200"
-           width="200"
-           style="color:#000000;fill:none;stroke:#0ee000;stroke-width:2.0735603;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      </g>
-      <rect
-         y="1247.9902"
-         x="89.413414"
-         height="197.89729"
-         width="203.25157"
-         id="rect13770"
-         style="opacity:0.84999999999999998;color:#000000;fill:none;stroke:#0ee000;stroke-width:2.0735603;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
+    <image
+       y="1251.5564"
+       x="70.866135"
+       id="image19167"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAIAAAAiOjnJAAAAA3NCSVQICAjb4U/gAAAEU0lEQVR4
+nO3d0Y7aMAAAwaPq///y9Z1IuMbeJKCZt0pcoGhlOcROHr+/vz+w25+rPwDfSVgkhEVCWCSERUJY
+JIRFQlgkhEVCWCSERUJYJIRFQlgkhEVCWCSERUJYJIRFQlgk/i7+/ePx2PI5/t9w98fsR3o64Bv/
+o9kjzG5gueGXPGTEIiEsEsIiISwSwiKxelZ4tH3P/uJZ3vCAT//cftY5dDzg689w+Tf8P4xYJIRF
+QlgkhEVi/+T9yfap9/nvOJzdv37BCRdkzv+Sh4xYJIRFQlgkhEUin7zXhj9bn/BD+ewLnnzl/YWN
+WCSERUJYJIRFQlgkPv6s8A3bTxtnD7h9G88NGbFICIuEsEgIi0Q+ea/nocPVUbNHeGNm/fpPTpiJ
+33Cyb8QiISwSwiIhLBLCIrH/rPDku4StL/Sb3YQzNPwAsy9Y/DyXMGKREBYJYZEQFonHDa8GLNp+
+v6vFaz6zc/PvYMQiISwSwiIhLBL5I0/qx3u8MTefvXXs4tnA+gGHbrg7w4hFQlgkhEVCWCSEReL6
+LfaLV0jW12PV563n3/ntDvuIjFgkhEVCWCSERWL/eqzt88TFB4psn8mu731YXCL2Ecu5jFgkhEVC
+WCSERUJYJK6/pPNk9hLN9k04bxzh9Ue6wye00I8vISwSwiIhLBKrl3S2L4da36WzOJN9Y/nU4oqu
+7XfkmlXcBMCIRUJYJIRFQlgkzr4/1vZ54vqtY89/XmF9wDv8Um/EIiEsEsIiISwSwiJx9iNP1nfp
+DA84u2Br/Zxu+7af1+5w0jdkxCIhLBLCIiEsErfbTHF0t/tdXX4X5OFFqtkFXtZj8TGERUJYJIRF
+QlgkbvcgzPqxlMN3XN8zM+vke98V73hkxCIhLBLCIiEsEvnk/fxnvm+/wPL6+Me3qCf7Q5fv2f8x
+YhERFglhkRAWibPXY81ubfhZfuTJ0PYj1L/1D1+//lCWdUYsEsIiISwSwiIhLBL5Fvvt+8Evf+TJ
++cunZs1+Qk+x52MIi4SwSAiLRP4U+8vvYXy0OBm/fI//kPVYfC1hkRAWCWGREBaJ/Zd0Xp9QvLHQ
+77XZR8wf36LekP7GvqPFL6G4kdosIxYJYZEQFglhkVidvJ+/nXz7PHQ4l9++Ymz2S1tfEFYvKTsy
+YpEQFglhkRAWibN/eX9DPdU9/3a6s7ZvjvAUez6VsEgIi4SwSAiLRH7jtXp/yPZnxK/bfgVm/c+t
+x+JLCIuEsEgIi8QHPMV+1uVP69t+V4H1DSb1naePjFgkhEVCWCSERUJYJL7wrPDJ+pNqhhaXIm5/
+/ewB3TWZjyEsEsIiISwS+eS9vn5y+e2vTjhgvY+oWL9lxCIhLBLCIiEsEvnzCs+3/fZUQycv8Dpa
+/B/55Z2PISwSwiIhLBLCIrH/QZjwY8QiIiwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwS
+wiIhLBLCIiEsEsIiISwSwiLxDwE2Eckb9oLfAAAAAElFTkSuQmCC
+"
+       height="200"
+       width="200" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4615,11 +4619,11 @@
     <image
        sodipodi:absref="/home/pvh/Documents/SANBI/GCC2016/posters/../images/SAMRCnewLogo.png"
        xlink:href="../images/SAMRCnewLogo.png"
-       width="250"
-       height="135"
-       id="image7720"
+       y="-1684.2389"
        x="2450.7144"
-       y="-1684.2389" />
+       id="image7720"
+       height="135"
+       width="250" />
     <path
        style="opacity:0.85;color:#000000;fill:none;stroke:#0ee000;stroke-width:7.07177258;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 74.966744,-2021.1851 0,480.5615 2313.021956,0 a 312.64638,313.98686 0 0 1 -112.7421,-241.2996 312.64638,313.98686 0 0 1 110.7155,-239.2619 l -2310.995356,0 z"
