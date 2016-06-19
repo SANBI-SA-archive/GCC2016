@@ -388,11 +388,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.18370049"
-     inkscape:cx="1822.951"
-     inkscape:cy="2233.1531"
+     inkscape:zoom="0.51958345"
+     inkscape:cx="1794.9412"
+     inkscape:cy="1633.7386"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1301"
      inkscape:window-height="744"
@@ -2387,7 +2387,7 @@
            y="145.15341"
            style="fill:#e6e6e6" /></flowRegion><flowPara
          style="font-size:29.64879227px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara7429">Thoba Lose (thoba@sanbi.ac.za), Peter van Heusden (pvh@sanbi.ac.za), Alan Christoffels (alan@sanbi.ac.za)</flowPara><flowPara
+         id="flowPara7429">Thoba Lose (thoba@sanbi.ac.za), Peter van Heusden, Alan Christoffels (alan@sanbi.ac.za)</flowPara><flowPara
          style="font-size:29.64879227px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;font-family:Garuda;-inkscape-font-specification:Garuda"
          id="flowPara7433">South African National Bioinformatics Institute </flowPara><flowPara
          style="font-size:29.64879227px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;font-family:Garuda;-inkscape-font-specification:Garuda"
@@ -2568,7 +2568,8 @@
      id="layer6"
      inkscape:label="Results"
      transform="translate(0,2108.265)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3024"
@@ -2626,7 +2627,7 @@
            ry="0"
            style="fill:#000000" /></flowRegion><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara49338-9">The Neo4J database allows for fast querying of thousands of nodes and their relationships, and exploration of the results in a graphical shell. The examples illustrated show the exploration of relationships between two interacting proteins and finding the set of GO and InterPro terms associated with them.</flowPara></flowRoot>    <image
+         id="flowPara49338-9">The Neo4j database allows for fast querying of thousands of nodes and their relationships, and exploration of the results in a graphical shell. The examples illustrated show the exploration of relationships between two interacting proteins and finding the set of GO and InterPro terms associated with them.</flowPara></flowRoot>    <image
        style="display:inline"
        y="231.9054"
        x="1011.6536"
@@ -2680,7 +2681,7 @@
        height="418.36679"
        width="820" />
     <rect
-       style="opacity:0.84999999999999998;color:#000000;fill:none;stroke:#0ee000;stroke-width:1.98976696000000008;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.85;color:#000000;fill:none;stroke:#0ee000;stroke-width:1.98976696;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7801"
        width="814.97089"
        height="420.85162"
@@ -2695,7 +2696,7 @@
        height="329.79114"
        width="147.05048" />
     <rect
-       style="opacity:0.84999999999999998;color:#000000;fill:none;stroke:#0ee000;stroke-width:1.89566929;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.85;color:#000000;fill:none;stroke:#0ee000;stroke-width:1.89566934;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7819"
        width="147.03264"
        height="327.46457"
@@ -2745,7 +2746,7 @@
            y="1624.7244"
            style="text-align:start;text-anchor:start;fill:#000000" /></flowRegion><flowPara
          id="flowPara49504"
-         style="font-size:24.70726585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Garuda;-inkscape-font-specification:Garuda">• We have successfully provided an interface to Neo4J databases and the Neo4j graphical shell within Galaxy.</flowPara><flowPara
+         style="font-size:24.70726585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Garuda;-inkscape-font-specification:Garuda">• We have successfully provided an interface to Neo4j databases and the Neo4j graphical shell within Galaxy.</flowPara><flowPara
          style="font-size:24.70726585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Garuda;-inkscape-font-specification:Garuda"
          id="flowPara7769" /><flowPara
          style="font-size:24.70726585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Garuda;-inkscape-font-specification:Garuda"
