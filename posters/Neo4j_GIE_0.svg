@@ -388,11 +388,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.19321194"
-     inkscape:cx="1489.9606"
-     inkscape:cy="2727.5748"
+     inkscape:zoom="0.54648588"
+     inkscape:cx="1571.3848"
+     inkscape:cy="787.59244"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer5"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
@@ -2420,8 +2420,7 @@
      id="layer5"
      inkscape:label="Introduction"
      transform="translate(0,2108.265)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        sodipodi:type="arc"
        style="fill:#ffffff"
@@ -2430,7 +2429,7 @@
        sodipodi:cy="504.72437"
        sodipodi:rx="180"
        sodipodi:ry="160"
-       d="m 440,504.72437 c 0,88.36556 -80.58875,160 -180,160 -99.41125,0 -180,-71.63444 -180,-160 0,-88.36556 80.58875,-160 180,-160 99.41125,0 180,71.63444 180,160 z"
+       d="m 440,504.72437 a 180,160 0 1 1 -360,0 180,160 0 1 1 360,0 z"
        transform="matrix(1.5839505,0,0,1.6178405,-1170.319,-72.83655)" />
     <path
        sodipodi:type="arc"
@@ -2440,18 +2439,18 @@
        sodipodi:cy="1084.7244"
        sodipodi:rx="200"
        sodipodi:ry="180"
-       d="m 600,1084.7244 c 0,99.4112 -89.54305,180 -200,180 -110.45695,0 -200,-80.5888 -200,-180 0,-99.41129 89.54305,-180.00003 200,-180.00003 110.45695,0 200,80.58874 200,180.00003 z"
+       d="m 600,1084.7244 a 200,180 0 1 1 -400,0 200,180 0 1 1 400,0 z"
        transform="matrix(3.0952436,0,0,3.393944,-572.08531,-4719.8766)" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="372.04724"
+       x="322.04724"
        y="-1456.2993"
        id="text49304"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan49306"
-         x="372.04724"
+         x="322.04724"
          y="-1456.2993"
          style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Cabin;-inkscape-font-specification:Cabin Bold">Introduction</tspan></text>
     <flowRoot
@@ -2488,7 +2487,8 @@
      id="layer2"
      inkscape:label="Implementation"
      style="display:inline"
-     transform="translate(0,2108.265)">
+     transform="translate(0,2108.265)"
+     sodipodi:insensitive="true">
     <path
        sodipodi:type="arc"
        style="fill:#acffa5;fill-opacity:1"
@@ -2497,7 +2497,7 @@
        sodipodi:cy="824.72437"
        sodipodi:rx="160"
        sodipodi:ry="160"
-       d="m 960,824.72437 c 0,88.36556 -71.63444,160 -160,160 -88.36556,0 -160,-71.63444 -160,-160 0,-88.36556 71.63444,-160 160,-160 88.36556,0 160,71.63444 160,160 z"
+       d="m 960,824.72437 a 160,160 0 1 1 -320,0 160,160 0 1 1 320,0 z"
        transform="matrix(4.4206283,0,0,4.3264809,-1372.9405,-4409.9728)" />
     <flowRoot
        xml:space="preserve"
@@ -2815,7 +2815,8 @@
      id="layer8"
      inkscape:label="Logos"
      style="display:inline"
-     transform="translate(0,-0.00199219)">
+     transform="translate(0,-0.00199219)"
+     sodipodi:insensitive="true">
     <path
        sodipodi:type="arc"
        style="opacity:0.95;fill:#adc6ff;fill-opacity:1;stroke:none;display:inline"
