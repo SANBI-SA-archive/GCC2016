@@ -1830,7 +1830,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.28014995"
      inkscape:cx="1271.3891"
-     inkscape:cy="1904.6679"
+     inkscape:cy="3046.9133"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -4480,7 +4480,7 @@
            x="340"
            y="105.33183" /></flowRegion><flowPara
          id="flowPara4239"
-         style="font-size:21.5968647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#045b5a;fill-opacity:0.99607843;font-family:Garuda;-inkscape-font-specification:Garuda Bold">Peter van Heusden (pvh@sanbi.ac.za), Ziphozake Mashologu, Alan Christoffels (alan@sanbi.ac.za) </flowPara><flowPara
+         style="font-size:21.5968647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#045b5a;fill-opacity:0.99607843;font-family:Garuda;-inkscape-font-specification:Garuda Bold">Peter van Heusden (pvh@sanbi.ac.za), Ziphozakhe Mashologu, Alan Christoffels (alan@sanbi.ac.za) </flowPara><flowPara
          style="font-size:21.5968647px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#045b5a;fill-opacity:0.99607843;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
          id="flowPara12186">South African National Bioinformatics Institute, University of the Western Cape</flowPara></flowRoot>    <g
        style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;display:inline"
@@ -4574,11 +4574,11 @@
     <image
        sodipodi:absref="/home/pvh/Documents/SANBI/GCC2016/posters/../images/SAMRCnewLogo.png"
        xlink:href="../images/SAMRCnewLogo.png"
-       width="250"
-       height="135"
-       id="image7720"
+       y="-1684.2389"
        x="2450.7144"
-       y="-1684.2389" />
+       id="image7720"
+       height="135"
+       width="250" />
     <path
        style="opacity:0.85;color:#000000;fill:none;stroke:#0ee000;stroke-width:7.07177258;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 74.966744,-2021.1851 0,480.5615 2313.021956,0 a 312.64638,313.98686 0 0 1 -112.7421,-241.2996 312.64638,313.98686 0 0 1 110.7155,-239.2619 l -2310.995356,0 z"
