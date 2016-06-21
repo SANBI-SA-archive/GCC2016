@@ -8,5 +8,5 @@ for poster in $(ls $POSTERDIR/*.svg) ; do
   JPG=$(echo $poster | sed 's/.svg$/.jpg/')
   convert -resize 1024 $PNG $JPG
   PDF=$(echo $poster | sed 's/.svg$/.pdf/')
-  inkscape -A $PDF $poster
+  inkscape -T -A $PDF $poster
 done
