@@ -2,7 +2,7 @@
 
 POSTERDIR=posters
 
-DPI=600
+DPI=300
 for poster in $(ls $POSTERDIR/*.svg) ; do
   PNG=$(echo $poster | sed 's/.svg$/.png/')
   inkscape -d $DPI -e $PNG $poster
