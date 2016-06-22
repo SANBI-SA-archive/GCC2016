@@ -11,16 +11,17 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">SANBI-SA Posters</h1>
-      <h2 class="project-tagline">SANBI-SA website for Galaxy Community Conference 2016 (GCC2016) Posters</h2>
-      <a href="https://github.com/SANBI-SA/GCC2016" class="btn">View on GitHub</a>
-      <a href="https://github.com/SANBI-SA/GCC2016/zipball/master" class="btn">Download .zip</a>
-      <a href="https://github.com/SANBI-SA/GCC2016/tarball/master" class="btn">Download .tar.gz</a>
+      <h1 class="project-name">SANBI at the GCC</h1>
+      <h2 class="project-tagline">SANBI website for our involvement in the Galaxy Community Conference 2016 (GCC2016)</h2>
+
+      <a href="http://f1000research.com/posters/5-1470" class="btn">COMBAT TB Explorer poster</a>
+      <a href="http://f1000research.com/posters/5-1471" class="btn">Galaxy Neo4j IE poster</a>
+      <a href="https://github.com/SANBI-SA/GCC2016" class="btn">View source on GitHub</a>
     </section>
 
     <section class="main-content">
       <h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to SANBI-SA GCC2016 Posters Page.</h3>
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to SANBI Galaxy Community Conference 2016 page.</h3>
 
 <p align="justify">This website contains infomation on posters presented by the development team from the South African National Bioinformatics Institute (SANBI) at the Galaxy Community Conference 2016. <a href="http://www.sanbi.ac.za">SANBI</a> is a leading African bioinformatics research and education institute that prides itself on educating the best to become brilliant in bioinformatics. The work documented in these posters builds on SANBI's decades-long experience in studying <em>M. tuberculosis</em> and its interaction with its human host.</p>
 
@@ -32,14 +33,6 @@
 
 <p align="justify">Storing the entities that describe a genome and its annotation involves modeling and storing thousands of entities that are interrelated in complex ways. Graph databases, a recently emerging form of non-relational (NoSQL) database, are seen as a natural fit to the huge network of relationships between these entities. The recently initiated <a href="http://christoffels.sanbi.ac.za/joomla/index.php/projects/combat-tb">COMBAT-TB</a> project aims to provide a platform for researchers to analyze and visualize their own M.tuberculosis genome sequencing data, primarily through a web interface (the COMBAT TB Explorer). This integrated platform relies on Neo4J, a highly scalable graph database, for storing and querying annotation of Mycobacterium tuberculosis. To expose the full power of the Neo4J database and its Cypher declarative query language, we <a href="https://github.com/SANBI-SA/neo4j_galaxy_ie">implemented</a> a Galaxy Interactive Environment (GIE) to explore a Neo4J database from within Galaxy and demonstrate its utility for data mining the COMBAT TB annotation database.</p>
 
-<h3><a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>References</h3>
-
-<ol align="justify" type="1">
-  <li>Have, C.T. and Jensen, L.J., 2013. Are graph databases ready for bioinformatics?. Bioinformatics, 29(24), pp.3107-3108.Vancouver</li>
-  <li>de Brevern, A.G., Meyniel, J.P., Fairhead, C., Neuvéglise, C. and Malpertuy, A., 2015. Trends in it innovation to build a next generation bioinformatics solution to manage and analyse biological big data produced by NGS technologies. BioMed research international, 2015.</li>
-  <li>Galaxy Code Documentation - <a href="https://docs.galaxyproject.org/en/master/admin/interactive_environments.html">Galaxy Interactive Environment</a></li>
-</ol>
-
 <p><b>The Neo4j GIE is available in a <a href="https://github.com/SANBI-SA/neo4j_galaxy_ie">GitHub Repository</a>.</b></p>
 
 <h3><a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><b>COMBAT TB Explorer, a TB data exploration workbench</b></h3>
@@ -48,10 +41,15 @@
 
 <p>Peter van Heusden (<a href="https://github.com/pvanheus" class="user-mention">@pvanheus</a>), Ziphozakhe Mashologu (<a href="https://github.com/zipho" class="user-mention">@zipho</a>), Alan Christoffels (<a href="http://christoffels.sanbi.ac.za/joomla/" class="user-mention">@alan</a>)</p>
 
-<p align="justify">Tuberculosis (TB), an infectious disease caused by the Mycobacterium tuberculosis, ranks as one of the leading causes of death worldwide, with WHO recording 9.6 people falling ill with 1.5 million deaths in 2014. This disease burden has arguably been matched with continued increase in genomic, transcriptomic and proteomic data for Mycobacterium tuberculosis as a result of NGS technologies. This continued expansion of data is exemplified by the growth of data repositories such as the tuberculosis database <a href="http://www.tbdb.org/">TBDB</a> and the pathosystems resource integrated center <a href="http://patricbrc.org/">PATRICBRC</a>. Unfortunately, these resources only present pre-computed data and do not provide the computational toolkit for biomedical researchers to analyze their own data. We have created the COMBAT TB Explorer, a Galaxy-based environment for annotating and exploring M. tuberculosis sequence data. COMBAT TB Explorer currently combines a genomic variant calling pipeline with a web based tool for exploring the relationship between variants and known annotation and allows the user to perform geneset enrichment analysis.</p>
+<p align="justify">Tuberculosis (TB), an infectious disease caused by <em>Mycobacterium tuberculosis</em>, ranks as one of the leading causes of death worldwide, with WHO recording 9.6 people falling ill with 1.5 million deaths in 2014. This disease burden has arguably been matched with continued increase in genomic, transcriptomic and proteomic data for <em>M. tuberculosis</em> as a result of NGS technologies. This continued expansion of data is exemplified by the growth of data repositories such as the tuberculosis database <a href="http://www.tbdb.org/">TBDB</a> and the pathosystems resource integrated center <a href="http://patricbrc.org/">PATRICBRC</a>. Unfortunately, these resources only present pre-computed data and do not provide the computational toolkit for biomedical researchers to analyze their own data. We have created the COMBAT TB Explorer, a Galaxy-based environment for annotating and exploring <em>M. tuberculosis</em> sequence data. COMBAT TB Explorer currently combines a genomic variant calling pipeline with a web based tool for exploring the relationship between variants and known annotation and allows the user to perform geneset enrichment analysis.</p>
 
 <h3><a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>References</h3>
 
+<ol align="justify" type="1">
+  <li>Have, C.T. and Jensen, L.J., 2013. Are graph databases ready for bioinformatics?. Bioinformatics, 29(24), pp.3107-3108.Vancouver</li>
+  <li>de Brevern, A.G., Meyniel, J.P., Fairhead, C., Neuvéglise, C. and Malpertuy, A., 2015. Trends in it innovation to build a next generation bioinformatics solution to manage and analyse biological big data produced by NGS technologies. BioMed research international, 2015.</li>
+  <li>Galaxy Code Documentation - <a href="https://docs.galaxyproject.org/en/master/admin/interactive_environments.html">Galaxy Interactive Environment</a></li>
+</ol>
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/SANBI-SA/GCC2016">SANBI-SA Posters</a> is maintained by <a href="https://github.com/SANBI-SA">SANBI-SA</a>.</span>
       </footer>
