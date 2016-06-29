@@ -11,8 +11,10 @@ deploy:
     secure: K0Jf86q6vKLwtSasGV144r/tuZ+y7T2M6vJg0C3mAeLVN4BZAIEgzoVJetkOYvyQDIxe8xNV7HksdUDBgdg271zBplsEYkeGhs3M9g8jKvVIlrOxtxfEjn9TLu8pS37pqkpWQiVb6QTngEBIIVBiNYJzyMyqDCdhP5P1pOXS5yX873gt8xDaMyACVmT8Jg2c27MjaTAdbmPjyGTvla7bmmleFUByCtUyUWa6jZ6BrNgV5L/Bqo8OF/QrqOui0r8ZUqkNezWO49SPpmEUyjWiXCMu7gJOkSEynaqJiU6nBej3bduKcW83KV5etFigF3ciQWuQQNrF6+vVouMtQ9CmE4h33fRhttx2xqKmAnpqko7QdhM0+p7d/IguxS6N0viCNeljnbLyaOUYV+/rg4t4rex1t9PZTq8kvbcEIcoXKqjuhyZStv4q2TZUZxykuM1EHVgBYM2kFVu6oPzH3TWw5Lxaf9lYvWemtLZXDo/vaHCGumozE1vzonkoIEJW9ey47Bd0WSqKAww+qaBAKc3kPJe7RA1fKSCg6xUxh5cdRKKsQ5N8+ndcSaxKpZeJaKhfGnhDu5QOony934gmQRx2NH55N1eINWzun9LzHz+smNvCIp12f9AFFVpKQJd5Q8usDBJTrNcOXDfIP+f4kpOt8cQcdy77ZVPrUnQxXwxp4vc=
   file: 
     - posters/COMBAT_TB_EXPLORER.pdf
+    - posters/COMBAT_TB_EXPLORER.png
     - posters/COMBAT_TB_EXPLORER.jpg
     - posters/Neo4j_GIE_0.pdf
+    - posters/Neo4j_GIE_0.png
     - posters/Neo4j_GIE_0.jpg
   overwrite: true
   on:
