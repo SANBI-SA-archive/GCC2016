@@ -7,7 +7,7 @@
 		<title>reveal.js</title>
 
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/moon.css">
+		<link rel="stylesheet" href="css/theme/sky.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
@@ -20,6 +20,9 @@
 			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
+        <style type="text/css">
+            .reveal section img { background:none; border: 2px solid lightblue; box-shadow: none; }
+        </style>
 	</head>
 <!--
 At SANBI we are building a database to integration annotation related to M. tuberculosis using the Neo4j graph database as a storage platform. We will present the construction of this database, demonstrate some sample queries using the Cypher graph query languages, show how Neo4j graph databases can be integrated with Galaxy and mention some strengths and weaknesses of the Neo4j graph database.
@@ -64,7 +67,7 @@ At SANBI we are building a database to integration annotation related to M. tube
                 <section data-markdown>
                     <script type="text/template">
                         ## Graph Databases
-                        ![Neo4j logo](images/neo4j-logo-2015.png) <!-- .element: width="20%" style="float: right" -->
+                        ![Neo4j logo](images/neo4j-logo-2015.png) <!-- .element: width="20%" style="float: right; border: none" -->
                         * By contrast with relational databases, graph databases store data objects and their relationships explicity <!-- .element: class="fragment" -->
                         * Queries expressed in Cypher query language <!-- .element: class="fragment" -->
                         * In use for biological entity and relationship storage at SANBI for a few years already (BORG) <!-- .element: class="fragment" -->
@@ -74,7 +77,7 @@ At SANBI we are building a database to integration annotation related to M. tube
                 <section data-markdown>
                     <script type="text/template">
                         ## Graph databases in the COMBAT TB project
-                        ![COMBAT TB graph](images/gene-terms.png) <!-- .element: width="60%" -->
+                        ![COMBAT TB graph](images/gene-terms.png) <!-- .element: width="60%"-->
                         * (Evolving) model for genes and other genomic features, gene products, GO and Interpro annotation, protein interactions <!-- .element: class="fragment" -->
                         * Modelled in neomodel object-graph mapper (OGM) <!-- .element: class="fragment" -->
                     </script>
@@ -82,11 +85,11 @@ At SANBI we are building a database to integration annotation related to M. tube
                 <section data-markdown>
                     <script type="text/template">
                         ### Interacting with Neo4j
-                        * Neo4j exposes RESTful API for CRUD operations (binary Bolt protocol coming soon)
-                        * OGM maps classes to object labels, attributes to node attributes and relationships to edges
-                        * Loading is done via OGM and RESTful API
-                        * Some queries are done using Cypher directly
-                        * neostore datatype allows graphs to be stored as Galaxy datatypes (operated on using Neo4j running in Docker)
+                        * Neo4j exposes RESTful API for CRUD operations (binary Bolt protocol coming soon) <!-- .element: class="fragment" -->
+                        * OGM maps classes to object labels, attributes to node attributes and relationships to edges <!-- .element: class="fragment" -->
+                        * Loading is done via OGM and RESTful API <!-- .element: class="fragment" -->
+                        * Some queries are done using Cypher directly <!-- .element: class="fragment" -->
+                        * neostore datatype allows graphs to be stored as Galaxy datatypes (operated on using Neo4j running in Docker) <!-- .element: class="fragment" -->
                     </script>
                 </section>
                 <section data-markdown>
@@ -102,11 +105,18 @@ At SANBI we are building a database to integration annotation related to M. tube
                         ## pros and cons
 
                         * pros
-                            - intuitive to model and extend model
-                            - fast queries due to explicit relationships and attribute indexing (including free text indexing with lucene)
+                            - intuitive to model and extend model <!-- .element: class="fragment" -->
+                            - fast queries due to explicit relationships and attribute indexing (including free text indexing with lucene) <!-- .element: class="fragment" -->
                         * cons
-                            - no schema 😟
+                            - no schema 😟 <!-- .element: class="fragment" -->
+                                * in part solved through versioning and building graph in layers <!-- .element: class="fragment" -->
+                            - neomodel is slow for bulk operations <!-- .element: class="fragment" -->
                     </script>
+                </section>
+                <section data-markdown>
+                    ## Finally
+                    * [COMBAT TB](http://christoffels.sanbi.ac.za/index.php/projects/combat-tb) Neo4j database is available on [Zenodo](https://zenodo.org/record/56655)
+                    * For more on graph databases, see our [GCC2016 page: bit.ly/ctbgcc16](http://sanbi-sa.github.io/GCC2016/)
                 </section>
 			</div>
 		</div>
